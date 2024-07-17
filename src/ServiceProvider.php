@@ -32,7 +32,7 @@ class ServiceProvider extends ExtendProvider
      * Extension description
      * @var string
      */
-    public static $description = "Laravel filed jobs viewer for bfg admin";
+    public static string $description = "Laravel filed jobs viewer for bfg admin";
 
     /**
      * @var string
